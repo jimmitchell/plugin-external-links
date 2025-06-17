@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "title": "Micro.blog Open External Links",
   "description": "A Micro.blog plugin to open all external links in a new browser tab or window automatically.",
   "includes": [
