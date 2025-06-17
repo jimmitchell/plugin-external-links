@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "title": "Open External Links",
+  "description": "Opens all external links in a new browser tab automatically.",
+  "includes": [
+    "static/js/external-links.min.js"
+  ]
+}
