@@ -1,3 +1,3 @@
-# Open External Links
+# Micro.blog Open External Links
 
-Opens all external links in a new browser tab automatically.
+A Micro.blog plugin to open all external links in a new browser tab or window automatically.
